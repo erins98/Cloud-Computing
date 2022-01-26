@@ -1,2 +1,2 @@
 # Python
-Things I did in my python class
+Things I did in my Cloud Computing class using Python
